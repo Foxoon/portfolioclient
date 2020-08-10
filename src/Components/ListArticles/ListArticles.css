@@ -1,0 +1,12 @@
+#ListArticles{
+    display: flex;
+    margin : 1em;
+    flex-direction: line;
+    flex-grow: 1;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    padding: 10px;
+    
+}
